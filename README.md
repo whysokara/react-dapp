@@ -15,3 +15,4 @@ npx hardhat help
 ```
 ###
 https://www.youtube.com/watch?v=a0osIaAOFSE&t=1095s
+https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13
