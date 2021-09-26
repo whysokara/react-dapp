@@ -13,3 +13,5 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
+###
+https://www.youtube.com/watch?v=a0osIaAOFSE&t=1095s
