@@ -7,7 +7,7 @@ const greeterAddress = "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0";
 
 function App() {
   // store greeting in local state
-  const [greeting, setGreetingValue] = useState();
+  const [greeting, setGreetingValue] = useState("");
 
   // request access to the user's MetaMask account
   async function requestAccount() {
